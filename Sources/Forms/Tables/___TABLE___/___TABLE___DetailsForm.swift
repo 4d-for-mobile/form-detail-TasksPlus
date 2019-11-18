@@ -164,7 +164,6 @@ class ___TABLE___DetailsForm: DetailsForm___DETAILFORMTYPE___ {
     override func onWillAppear(_ animated: Bool) {
         // Called when the view is about to made visible. Default does nothing
         graphView.isHidden = true
-        
     }
 
     override func onDidAppear(_ animated: Bool) {
