@@ -1,5 +1,4 @@
-<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-detail-TasksPlus/blob/master/template.gif
-" alt="Tasks Plus" height="auto" width="300"></p>
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-detail-TasksPlus/blob/master/template.gif" alt="Tasks Plus" height="auto" width="300"></p>
 
 ## Tasks Plus
 
